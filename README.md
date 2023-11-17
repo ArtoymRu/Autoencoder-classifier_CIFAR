@@ -1,5 +1,5 @@
-# Autoencoder-classifier test task
-This is a test task for a Middle Reseacher (СV) position.
+# Autoencoder-classifier task
+This is a basic CV problem.
 
 
 
