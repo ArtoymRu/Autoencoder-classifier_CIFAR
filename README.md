@@ -5,10 +5,13 @@ This is a basic CV problem.
 
 ## Project Description
 ### Problem Statement
-
+    rus:
     Написать и обучить модель-автокодировщик на датасете на выбор: CIFAR10, CIFAR100.
     Обучить модель-классификатор на латентных представлениях обученного автокодировщика.
 
+    eng:
+    Write and train an autoencoder model on a dataset of your choice: CIFAR10, CIFAR100.
+    Train a classifier model on latent representations of the trained autoencoder.
 
 ### Data
 
